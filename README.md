@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">MSc Student in Computer Engineering at Sharif University of Technology</h3>
 <h3 align="center">Researcher & Inventor</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mamomen1996&label=Profile%20views&color=0e75b6&style=flat" alt="mamomen1996" /> 
-</p>
-
 - 📫 Contact Me: **mamomen1996@gmail.com**
 
 <h3 align="left">Follow Me:</h3>
@@ -54,4 +50,8 @@ Here are some ideas to get you started:
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mamomen1996&show_icons=true&locale=en&theme=dark" alt="mamomen1996" />
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mamomen1996&label=Profile%20views&color=0e75b6&style=flat" alt="mamomen1996" /> 
 </p>
