@@ -18,14 +18,12 @@ Here are some ideas to get you started:
 <h3 align="center">MSc Student in Computer Engineering at Sharif University of Technology</h3>
 <h3 align="center">Researcher & Inventor</h3>
 
-- 📫 Contact Me: **mamomen1996@gmail.com**
+<h3 align="left">Contact Me:</h3>
 
-<h3 align="left">Follow Me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mamomen1996" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mamomen1996" height="30" width="40" />
-  </a>
-</p>
+- 📫 Reach me: **mamomen1996@gmail.com**
+- 📢 Follow me: **https://www.linkedin.com/in/mamomen1996**
+- 🌐 Visit my personal website: **https://mamomen1996.github.io**
+- 📚 Read my published articles: **https://orcid.org/0009-0003-9316-568X**
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
