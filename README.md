@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Mohammad Ali</h1>
 
-<h3 align="center">MSc Student in Computer Engineering at Sharif University of Technology</h3>
+<h3 align="center">M.Sc. Student in Computer Engineering at Sharif University of Technology</h3>
 <h3 align="center">Researcher & Inventor</h3>
 
 <h3 align="left">Contact Me:</h3>
